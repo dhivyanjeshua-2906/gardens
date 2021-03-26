@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+    font-family: 'Lobster';
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+img {
+    border: black 5px solid;
+    padding: 2px
+}
+
+img:hover {
+    border-radius: 15%;
+}
